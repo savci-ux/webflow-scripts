@@ -1,5 +1,5 @@
 // ------- CONFIG -------------------------------------------------------
-const SCROLL_OFFSET = 80; // px
+const SCROLL_OFFSET = 0; // px
 const SECTIONS = [
   "#treatment-section",
   "#pricing-section",
