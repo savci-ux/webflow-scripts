@@ -1,20 +1,20 @@
 // ------- CONFIG -------------------------------------------------------
 const SCROLL_OFFSET = 0; // px
 const SECTIONS = [
-  "#treatment-section",
-  "#pricing-section",
-  "#your-stories-section",
-  "#why-novedent-section",
-  "#good-to-know-section"
+  "#treatments",
+  "#pricing",
+  "#your-stories",
+  "#why-novexdent",
+  "#good-to-know"
 ];
 
 const KEY_MAP = {
   // letter shortcuts
-  "t": "#treatment-section",
-  "p": "#pricing-section",
-  "y": "#your-stories-section",
-  "w": "#why-novedent-section",
-  "g": "#good-to-know-section",
+  "t": "#treatments",
+  "p": "#pricing",
+  "y": "#your-stories",
+  "w": "#why-novexdent",
+  "g": "#good-to-know",
 };
 
 // ------- HELPERS ------------------------------------------------------
